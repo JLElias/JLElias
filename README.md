@@ -1,9 +1,5 @@
 ### Hi there 👋
 
-<!--
-**JLElias/JLElias** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on thermal analysis for graphene aerogel and initial funding proposal calculations for MPDT cathode erosion mitigation techniques.
 - 🌱 I’m currently learning physics of electric propulsion and plasmadynamics.
@@ -13,4 +9,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: email
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I have the largest collection of two endangered palm species in the US.
--->
